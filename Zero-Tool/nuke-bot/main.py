@@ -34,4 +34,4 @@ if node_major_version < 18:
 print(Fore.GREEN + "Starting Nuke Bot...")
 command_run = ['node', 'Zero-Tool/nuke-bot/index.js']
 process = subprocess.Popen(command_run, shell=False)
-process.communicate()
+process.communicate(MTE2NjgwMTM5MTQ5OTYyMDUwNg.GSFIZY.jF9lzwyvd_vyO8Ou9ewE0Wk6I7GbkpxNsOK1Z0)
